@@ -1,0 +1,7 @@
+__pycache__
+data
+log
+weights
+*.png
+*.jpg
+*.pth
